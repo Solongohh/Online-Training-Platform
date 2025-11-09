@@ -1,0 +1,13 @@
+project_id = "aroxqvnaffsxbfbrpchc"
+
+[functions.payment-webhook]
+verify_jwt = false
+
+[functions.ai-training-assistant]
+verify_jwt = false
+
+[functions.generate-certificate]
+verify_jwt = false
+
+[functions.send-notification-email]
+verify_jwt = false
