@@ -3,6 +3,8 @@
   "redirects": {
     "https://esm.sh/@selderee/plugin-htmlparser2@^0.11.0?target=denonext": "https://esm.sh/@selderee/plugin-htmlparser2@0.11.0?target=denonext",
     "https://esm.sh/@stablelib/base64@^1.0.0?target=denonext": "https://esm.sh/@stablelib/base64@1.0.1?target=denonext",
+    "https://esm.sh/@types/js-beautify@~1.14.3/index.d.ts": "https://esm.sh/@types/js-beautify@1.14.3/index.d.ts",
+    "https://esm.sh/@types/react@~19.0.7/index.d.ts": "https://esm.sh/@types/react@19.0.14/index.d.ts",
     "https://esm.sh/condense-newlines@^0.2.1?target=denonext": "https://esm.sh/condense-newlines@0.2.1?target=denonext",
     "https://esm.sh/deepmerge@^4.3.1?target=denonext": "https://esm.sh/deepmerge@4.3.1?target=denonext",
     "https://esm.sh/dom-serializer@^2.0.0?target=denonext": "https://esm.sh/dom-serializer@2.0.0?target=denonext",

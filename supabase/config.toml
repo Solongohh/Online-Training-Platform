@@ -4,7 +4,7 @@ project_id = "aroxqvnaffsxbfbrpchc"
 verify_jwt = false
 
 [functions.ai-training-assistant]
-verify_jwt = false
+verify_jwt = true
 
 [functions.generate-certificate]
 verify_jwt = false
